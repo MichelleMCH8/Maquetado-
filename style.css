@@ -106,7 +106,7 @@ footer {
 	height: 100px;
 	}
 
-.img1{
+.la-mona{
    grid-column-start: auto;
    grid-column-end: auto;
 }
@@ -116,18 +116,23 @@ footer {
 	grid-column-end: 4;
 }
 
-.img3{
+.img1{
 	grid-row-start: 1;
 	grid-row-end: 3;
 	grid-column-start: 4;
 	grid-column-end: 5;
 }
 
-.img4{
+.Logo{
 	grid-column-start: 1;
 	grid-column-end: 3;
 	
 }
+
+.img3{
+    	grid-column-start: 5;
+    	grid-column-end:  5;
+    }	
  /**************************************
  cambios de configuración para tablet
  ***************************************/
